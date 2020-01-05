@@ -1,0 +1,1 @@
+Solves some specific PDE's with some specific initial conditions and visualises the result. 
